@@ -1,5 +1,5 @@
 # tecnomultimedia
-tp3 - comentarios
+tp3 - comentarios.
 Las formas de las viñetas indican lo siguiente:
 Rectangular: las pantallas conducen a una unica pantalla.
 Rombo: las pantallas conducen a 2 pantallas creando asi bifurcaciones o varios caminos.
