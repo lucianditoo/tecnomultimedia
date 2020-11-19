@@ -1,0 +1,43 @@
+Controles de la Aventura:
+
+
+Click.
+
+
+Controles del Minijuego:
+
+
+<-- Left
+
+
+--> Right
+
+
+En esta aventura tendras que tomar decisiones para
+
+
+poder avanzar. Si sabes elegir correctamente las opciones
+
+
+podras avanzar, pero si te equivocas, moriras !!!
+
+
+Prueba todos los caminos y juega mas de una aventura para
+
+
+desbloquear todos los finales con todos los secretos del juego.
+
+
+Historia del juego por... Luciano Salbitano
+
+
+fuente y juego original...
+
+
+Dark souls III
+
+
+by
+
+
+FROMSOFTWARE.
